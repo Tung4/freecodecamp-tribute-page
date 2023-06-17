@@ -30,6 +30,9 @@ main {
   padding: 15px;
   border-radius: 5px;
   background: #eee;
+  & > p {
+    margin-bottom: 15px;
+  }
 }
 
 /* Layout */
